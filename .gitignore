@@ -1,0 +1,34 @@
+# Build directories
+build/
+bin/
+
+# Cache & indexers
+.cache/
+compile_commands.json
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled binaries and object files
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.out
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/

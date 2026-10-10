@@ -1,0 +1,4 @@
+Diagnostics:
+  Suppress:
+    - "unused-includes"  # Include altındaki sarı/yeşil çizgileri YOK EDER
+  UnusedIncludes: None
